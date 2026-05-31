@@ -5,8 +5,6 @@ export const MAX_PREFERENCES = 10;
 export const AREA_OPTIONS = [
   { value: "Medical", label: "Medical (RACP)" },
   { value: "Surgery", label: "Surgery" },
-  { value: "Mental Health", label: "Mental Health" },
-  { value: "Paediatrics", label: "Paediatrics" },
 ] as const;
 
 const ADDICTION = "Addiction Medicine";
