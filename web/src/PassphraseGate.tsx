@@ -1,7 +1,7 @@
 import { useEffect, useState, type FormEvent, type ReactNode } from "react";
+import { getExpectedPassphrase } from "./passphrase";
 
 const STORAGE_KEY = "cs-ballarat-unlock";
-const PASSPHRASE = "md3rats";
 
 type Props = { children: ReactNode };
 
@@ -16,7 +16,7 @@ export function PassphraseGate({ children }: Props) {
 
   function handleSubmit(e: FormEvent) {
     e.preventDefault();
-    if (input === PASSPHRASE) {
+    if (input === getExpectedPassphrase()) {
       sessionStorage.setItem(STORAGE_KEY, "1");
       setUnlocked(true);
       setError("");
