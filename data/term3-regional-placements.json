@@ -1,0 +1,434 @@
+[
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Acute Surgery Unit",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Psychiatry & Mental Health",
+    "subspecialty": "Addiction Medicine",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Mental Health"
+  },
+  {
+    "specialty": "Anaesthetics & ICU",
+    "subspecialty": "Anaesthetics",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Echuca Regional Health",
+    "suburb": "Echuca",
+    "area": null
+  },
+  {
+    "specialty": "Anaesthetics & ICU",
+    "subspecialty": "Anaesthetics",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": null
+  },
+  {
+    "specialty": "Anaesthetics & ICU",
+    "subspecialty": "Anaesthetics",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": null
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Cardiology",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Anaesthetics & ICU",
+    "subspecialty": "Critical Care",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": null
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Diabetic Clinic",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Emergency Medicine",
+    "subspecialty": "Emergency Medicine",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Echuca Regional Health",
+    "suburb": "Echuca",
+    "area": null
+  },
+  {
+    "specialty": "Emergency Medicine",
+    "subspecialty": "Emergency Medicine",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": null
+  },
+  {
+    "specialty": "Emergency Medicine",
+    "subspecialty": "Emergency Medicine",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Northeast Health Wangaratta",
+    "suburb": "Wangaratta",
+    "area": null
+  },
+  {
+    "specialty": "Emergency Medicine",
+    "subspecialty": "Emergency Medicine / Urgent Care",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": null
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Gastroenterology",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "General Medicine",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Northeast Health Wangaratta",
+    "suburb": "Wangaratta",
+    "area": "Medical"
+  },
+  {
+    "specialty": "General Practice",
+    "subspecialty": "General Practice",
+    "clinicalSchool": "Department of General Practice (DGPPC)",
+    "clinicalSchoolCode": "DGPPC",
+    "hospital": "Rural VIC location arranged with student",
+    "suburb": "Regional VIC",
+    "area": null
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "General Surgery",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Northeast Health Wangaratta",
+    "suburb": "Wangaratta",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Hospital in the Home (HITH)",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Northeast Health Wangaratta",
+    "suburb": "Wangaratta",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Anaesthetics & ICU",
+    "subspecialty": "ICU",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": null
+  },
+  {
+    "specialty": "Anaesthetics & ICU",
+    "subspecialty": "ICU",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Northeast Health Wangaratta",
+    "suburb": "Wangaratta",
+    "area": null
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Infectious Diseases",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Medicine",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Echuca Regional Health",
+    "suburb": "Echuca",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Medicine",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Medicine RAPU",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Medicine Team A",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Medicine Team B",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Medicine Team C",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Medicine Team D",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology",
+    "subspecialty": "Obstetrics & Gynaecology",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Obstetrics & Gynaecology"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Oncology",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Oncology",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Orthopaedics",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Orthopaedics",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Northeast Health Wangaratta",
+    "suburb": "Wangaratta",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Orthopaedics (Surg)",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Paediatrics",
+    "subspecialty": "Paediatrics",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Paediatrics"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Palliative Care",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Medicine",
+    "subspecialty": "Palliative Care",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Medical"
+  },
+  {
+    "specialty": "Anaesthetics & ICU",
+    "subspecialty": "Perioperative Medicine",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": null
+  },
+  {
+    "specialty": "Psychiatry & Mental Health",
+    "subspecialty": "Psychiatry (Adult)",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": "Mental Health"
+  },
+  {
+    "specialty": "Psychiatry & Mental Health",
+    "subspecialty": "Psychiatry (Child)",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": "Mental Health"
+  },
+  {
+    "specialty": "Radiology & Imaging",
+    "subspecialty": "Radiology",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": null
+  },
+  {
+    "specialty": "Rehabilitation",
+    "subspecialty": "Rehabilitation",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": null
+  },
+  {
+    "specialty": "Rehabilitation",
+    "subspecialty": "Rehabilitation",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Northeast Health Wangaratta",
+    "suburb": "Wangaratta",
+    "area": null
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Surgery",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Echuca Regional Health",
+    "suburb": "Echuca",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Surgery",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Goulburn Valley Health Shepparton",
+    "suburb": "Shepparton",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Surgery Unit 1 (Upper GI)",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Surgery Unit 2 (Lower GI)",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Surgery Unit 3 (Vascular/Plastics)",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Surgery"
+  },
+  {
+    "specialty": "Surgery",
+    "subspecialty": "Surgery Unit 4 (Gen)",
+    "clinicalSchool": "Rural Clinical School (RCS)",
+    "clinicalSchoolCode": "RCS",
+    "hospital": "Grampians Health Ballarat",
+    "suburb": "Ballarat",
+    "area": "Surgery"
+  }
+]
