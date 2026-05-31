@@ -5,7 +5,16 @@ export const MAX_PREFERENCES = 10;
 export const AREA_OPTIONS = [
   { value: "Medical", label: "Medical (RACP)" },
   { value: "Surgery", label: "Surgery" },
+  { value: "Other", label: "Other" },
 ] as const;
+
+export function matchesAreaFilter(p: Placement, filter: string): boolean {
+  if (!filter) return true;
+  if (filter === "Other") {
+    return p.area !== "Medical" && p.area !== "Surgery";
+  }
+  return p.area === filter;
+}
 
 const ADDICTION = "Addiction Medicine";
 const MENTAL_HEALTH = "Mental Health";

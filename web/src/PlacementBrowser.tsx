@@ -5,6 +5,7 @@ import {
   MAX_PREFERENCES,
   areaLabel,
   loadPreferences,
+  matchesAreaFilter,
   moveInShortlist,
   placementId,
   savePreferences,
@@ -57,7 +58,7 @@ export function PlacementBrowser({ term }: Props) {
     const q = search.trim().toLowerCase();
     return placements
       .filter((p) => {
-        if (area && (p.area ?? "") !== area) return false;
+        if (area && !matchesAreaFilter(p, area)) return false;
         if (specialty && p.specialty !== specialty) return false;
         if (subspecialty && subspecialtyKey(p) !== subspecialty) return false;
         if (hospital && p.hospital !== hospital) return false;
